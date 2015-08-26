@@ -114,7 +114,7 @@ class Ukagaka_Plugin implements Typecho_Plugin_Interface
             $vv = '\'\'';
         }
         $path = Helper::options()->pluginUrl.'/Ukagaka/assets';
-        ?><script type="text/javascript">!window.jQuery && document.write('<script src="//upcdn.b0.upaiyun.com/libs/jquery/jquery-1.9.1.min.js"><\/script>');</script>
+        ?>
         <script src="<?php echo $path;?>/Ukagaka.js"></script>
         <script type="text/javascript">var actionurl = '<?php Helper::options()->index('action/Ukagaka');?>'; var imagewidth = '85';var imageheight = '152';</script>
         <script type="text/javascript">createFace("<?php echo $path; ?>/skin/default/face1.gif", "<?php echo $path; ?>/skin/default/face2.gif", "<?php echo $path; ?>/skin/default/face3.gif");</script>
