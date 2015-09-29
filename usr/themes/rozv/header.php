@@ -3,7 +3,7 @@
 <head profile="http://gmpg.org/xfn/11">
     <meta http-equiv="content-type" content="text/html; charset=<?php $this->options->charset(); ?>" />
     <title><?php $this->archiveTitle(' &raquo; ', '', ' - '); ?><?php $this->options->title(); ?></title>
-    <link rel = "Shortcut Icon" href="icon.ico" />
+    <link rel = "Shortcut Icon" href="/icon.ico" />
     <link rel="stylesheet" type="text/css" media="all" href="<?php $this->options->themeUrl('style.css'); ?>" />
     <!–[if IE]>
         <script src="<?php $this->options->themeUrl('html5.js'); ?>"></script>
