@@ -1,8 +1,8 @@
 <div id="sidebar">
     <div class="side_box side_1">
         <h3>友链</h3>
-        <p><a href="http://www.otarim.com" target="_blank">Otarim's Blog</a></p>
-        <p><a href="http://blog.jarvis.top" target="_blank">Jarvis's Blog</a></p>
+        <p><a href="http://www.otarim.com" target="_blank">傲娇のotarim</a></p>
+        <p><a href="http://www.nowamagic.net" target="_blank">简明现代魔法</a></p>
     </div>
     <div class="side_box side_2">
         <h3>关于我</h3>
