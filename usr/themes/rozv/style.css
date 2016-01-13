@@ -25,7 +25,7 @@ input {vertical-align:middle;}
 input[type^="radio"] {border:none; background:none; width:auto;}
 ::selection {color:#fff; background:#444; text-shadow:none;}
 code {font:12px/1.5 "Hiragino Sans GB",Tahoma,Helvetica,Arial;}
-pre,code {display:block; overflow-x:auto; background:#f6f6f6; padding:5px 10px; margin-bottom:20px;}
+pre,code {display:block; overflow-x:auto; background:#f6f6f6; padding:5px 10px;}
 blockquote {background:#f6f6f6; border-left:2px dashed #ddd; padding:5px 10px; margin-bottom:20px;}
 blockquote p {margin-bottom:10px;}
 .aligncenter {display:block; margin-left:auto; margin-right:auto;}
