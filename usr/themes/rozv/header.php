@@ -2,6 +2,7 @@
 <html>
 <head profile="http://gmpg.org/xfn/11">
     <meta http-equiv="content-type" content="text/html; charset=<?php $this->options->charset(); ?>" />
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1">
     <title><?php $this->archiveTitle(' &raquo; ', '', ' - '); ?><?php $this->options->title(); ?></title>
     <link rel = "Shortcut Icon" href="/icon.ico" />
     <link rel="stylesheet" type="text/css" media="all" href="<?php $this->options->themeUrl('style.css'); ?>" />

@@ -163,4 +163,6 @@ img.avatar {float:left; margin-right:10px;}
 	.login_meta li {float:none;width:99%}
 	#comment_form textarea{height:auto;width:96%}
 	#comment_form button {width:99%;}
+	#dialog_chat {display:none}
+	#smchuncai {display:none}
 }
