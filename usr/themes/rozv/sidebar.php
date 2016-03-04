@@ -1,7 +1,8 @@
 <div id="sidebar">
     <div class="side_box side_1">
         <h3>友链</h3>
-        <p><a href="http://www.otarim.com" target="_blank">傲娇のotarim</a></p>
+        <p><a href="https://www.tomori.top" target="_blank">傲娇且孤独の老人</a></p>
+        <p><a href="http://www.jarvis.top" target="_blank">超神Jarvis</a></p>
         <p><a href="http://www.nowamagic.net" target="_blank">简明现代魔法</a></p>
     </div>
     <div class="side_box side_2">
