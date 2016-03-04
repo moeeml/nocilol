@@ -21,12 +21,20 @@
                 <li<?php if($this->is('category', $categories->slug)): ?> class="current"<?php endif; ?>><a href="<?php $categories->permalink(); ?>"><?php $categories->name(); ?></a></li>
             <?php endwhile; ?>
         </ul>
-        <form id="search" method="post" action="<?php $this->options->siteUrl(); ?>">
+        <form id="search" class="search" method="post" action="<?php $this->options->siteUrl(); ?>">
             <input type="text" name="s" class="text" size="20" required />
             <button type="submit">搜索</button>
         </form>
-    </nav>
+    </nav>   
 </div>
+
+<div id="search2">
+    <form class="search" method="post" action="<?php $this->options->siteUrl(); ?>">
+        <input type="text" name="s" class="text" size="20" required />
+        <button type="submit">搜索</button>
+    </form>
+</div>
+
 <div id="wrap">
     <header id="header">
         <div id="logo">
