@@ -378,7 +378,7 @@ function talkSelf(talktime){
 			chuncaiSay(talkself_arr[tsi][0]);
 			setFace(talkself_arr[tsi][1]);
 		} else {
-			var hitokotourl = 'https://misaka.me/rand?cat=a&charset=utf-8&encode=jsc';
+			var hitokotourl = 'http://api.hitokoto.us/rand?encode=jsc&charset=utf-8';
 			smjq.ajax({
 			type: "GET",
 			cache: false,

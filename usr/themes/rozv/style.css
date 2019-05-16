@@ -73,7 +73,7 @@ legend {font-weight:bold;}
 .post_head {font-size:12px; color:#888; margin-bottom:20px;}
 .post_head a {color:#333;}
 .post_artice {background:url(images/paper.png)}
-.post_artice img {max-width:800px; height:auto;}
+.post_artice img {width:100%;max-width:800px; height:auto;}
 .post_artice p {font-size:16px; margin-bottom:20px;}
 .post_artice p:last-child {margin-bottom:0;}
 .tags a {font-size:12px; color:#666; text-shadow:1px 1px #fff; background:#f3f3f3; border-right:1px solid #ddd; border-bottom:1px solid #ddd; margin-right:8px; padding:5px 8px;}
@@ -122,7 +122,7 @@ img.avatar {float:left; margin-right:10px;}
 .login_meta input {width:99%; height:26px; font-size:14px;}
 .login_meta li.urltext {width:33%;}
 /* Sidebar */
-#sidebar {background:#fff; border:1px solid #ddd; padding:24px 0; margin-top:20px; width:800px; display:table; overflow:hidden;}
+#sidebar {background:#fff; border:1px solid #ddd; padding:24px 0; margin-top:20px; width:850px; display:table; overflow:hidden;}
 .side_box {width:240px; display:table-cell; vertical-align:top;}
 .side_box a {color:#666;}
 .side_1 {padding-right:20px;width:30%;padding:0 24px;}
